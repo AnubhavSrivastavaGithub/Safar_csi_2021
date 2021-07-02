@@ -15,7 +15,7 @@
     <SearchView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/sv_location"
+        android:id="@+id/location"
         android:queryHint="Search"
         android:iconifiedByDefault="false"
         android:layout_margin="12dp"
