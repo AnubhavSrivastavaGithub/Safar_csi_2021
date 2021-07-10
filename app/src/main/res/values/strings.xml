@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">Map</string>
-    <string name="map_key" translatable="false">
-        AIzaSyAlBkLZhMb7AMD9tf1ouHCqsmeYNRTEzTI
-    </string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYXZpc2hla29uZTEwIiwiYSI6ImNrcXhxNHh2YTEwcjMyb3BhcDAxNjRiMGQifQ.oNw2rHdRH9SaPrFDhIukTA</string>
     <string name="title_activity_maps">Map</string>
 </resources>
